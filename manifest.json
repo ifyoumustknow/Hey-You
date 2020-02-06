@@ -1,0 +1,14 @@
+{
+    "name": "Hey You",
+    "short_name": "HeyYou",
+    "start_url": "src/public/signin.html",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "src/public/images/icon_144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        }
+    ]
+}
